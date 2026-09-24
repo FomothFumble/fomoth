@@ -4,6 +4,7 @@
 
 [![live](https://img.shields.io/badge/live-fomoth.com-00c805?style=flat-square&labelColor=0b0f0d)](https://fomoth.com)
 [![CI](https://img.shields.io/github/actions/workflow/status/FomothFumble/fomoth/ci.yml?style=flat-square&label=ci&labelColor=0b0f0d&color=00c805)](https://github.com/FomothFumble/fomoth/actions/workflows/ci.yml)
+[![x](https://img.shields.io/badge/x-@fomoth__fumble-00c805?style=flat-square&logo=x&logoColor=white&labelColor=0b0f0d)](https://x.com/fomoth_fumble)
 [![python](https://img.shields.io/badge/python-3.11%20%7C%203.12-00c805?style=flat-square&logo=python&logoColor=white&labelColor=0b0f0d)](https://github.com/FomothFumble/fomoth)
 [![license](https://img.shields.io/badge/license-MIT-00c805?style=flat-square&labelColor=0b0f0d)](LICENSE)
 
