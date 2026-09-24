@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png" alt="FOMOTH — how much did you fumble" width="100%">
+<img src="assets/header.png" alt="FOMOTH, how much did you fumble" width="100%">
 
 [![live](https://img.shields.io/badge/live-fomoth.com-00c805?style=flat-square&labelColor=0b0f0d)](https://fomoth.com)
 [![CI](https://img.shields.io/github/actions/workflow/status/FomothFumble/fomoth/ci.yml?style=flat-square&label=ci&labelColor=0b0f0d&color=00c805)](https://github.com/FomothFumble/fomoth/actions/workflows/ci.yml)
