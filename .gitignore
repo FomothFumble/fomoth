@@ -1,0 +1,11 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+_scratch/
+*.local.json
+/build/
+*.bak.html
+deploy/
+MASTER_PLAN.md

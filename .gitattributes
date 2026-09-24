@@ -1,0 +1,6 @@
+# Language stats should reflect the engine (C++ core + Python), not the demo web page.
+web/**       linguist-vendored
+*.html       linguist-vendored
+*.md         linguist-documentation
+*.sh text eol=lf
+assets/**   linguist-vendored

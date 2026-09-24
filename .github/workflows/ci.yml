@@ -1,0 +1,42 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Configure (CMake)
+        run: cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
+
+      - name: Build C++ core
+        run: cmake --build build --parallel
+
+      - name: C++ unit tests (ctest)
+        run: ctest --test-dir build --output-on-failure
+
+      - name: Python compiles
+        run: python -m compileall fomoth
+
+      - name: End to end (Python bridge to the C++ core)
+        run: |
+          export FOMOTH_FUMBLE_BIN="$PWD/build/core/fumble"
+          python - <<'PY'
+          from fomoth import native
+          assert native.available(), f"binary not found: {native.find_binary()}"
+          rep = native.regret_native([
+              {"mint": "TKN",
+               "series": [(0, 2, 1), (86400, 10, 3), (172800, 5, 4)],
+               "sells": [(0, 100), (172800, 50)]},
+          ])
+          assert abs(rep["total_fumble"] - 950.0) < 1e-6, rep
+          print("bridge ok, total_fumble =", rep["total_fumble"])
+          PY

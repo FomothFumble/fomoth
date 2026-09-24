@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 470" width="1040" height="470">
+<rect width="1040" height="470" fill="#060806"/>
+<text x="40" y="46" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="2" fill="#14F195">REAL OUTPUT / ONE WALLET</text>
+<text x="40" y="86" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="31" font-weight="800" fill="#F1F3FA">the trade you fumbled</text>
+<text x="40" y="110" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8A93B0">read only · every sell marked against the peak that came after it</text>
+<rect x="40" y="132" width="360" height="300" rx="14" fill="#0b0e08" stroke="rgba(20,241,149,0.22)"/>
+<text x="64" y="168" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" letter-spacing="1.5" fill="#8BFFCB">01  THE WALLET</text>
+<text x="64" y="218" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" fill="#8A93B0">realized pnl</text>
+<text x="376" y="218" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#14F195">$3,780</text>
+<text x="64" y="268" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" fill="#8A93B0">total invested</text>
+<text x="376" y="268" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#F1F3FA">$44,135</text>
+<text x="64" y="318" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" fill="#8A93B0">win rate</text>
+<text x="376" y="318" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#9945FF">47%</text>
+<text x="64" y="368" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" fill="#8A93B0">tokens traded</text>
+<text x="376" y="368" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#F1F3FA">147</text>
+<rect x="424" y="132" width="576" height="300" rx="14" fill="#0b0e08" stroke="rgba(20,241,149,0.22)"/>
+<text x="448" y="168" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" letter-spacing="1.5" fill="#8BFFCB">02  THE FUMBLE</text>
+<text x="448" y="226" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="52" font-weight="800" fill="#14F195">$165,660</text>
+<text x="448" y="250" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#8A93B0">left on the table across 147 tokens, sold before the top</text>
+<text x="448" y="294" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#F1F3FA">$CUCTST</text>
+<rect x="542" y="283" width="308" height="13" rx="6.5" fill="rgba(20,241,149,0.06)"/>
+<rect x="542" y="283" width="308" height="13" rx="6.5" fill="#14F195"/>
+<text x="864" y="294" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#9945FF">272x</text>
+<text x="976" y="294" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#14F195">$113.9K</text>
+<text x="448" y="326" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#F1F3FA">$GOAT</text>
+<rect x="542" y="315" width="308" height="13" rx="6.5" fill="rgba(20,241,149,0.06)"/>
+<rect x="542" y="315" width="79" height="13" rx="6.5" fill="#14F195"/>
+<text x="864" y="326" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#9945FF">82x</text>
+<text x="976" y="326" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#14F195">$29.1K</text>
+<text x="448" y="358" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#F1F3FA">$ZEREBRO</text>
+<rect x="542" y="347" width="308" height="13" rx="6.5" fill="rgba(20,241,149,0.06)"/>
+<rect x="542" y="347" width="38" height="13" rx="6.5" fill="#14F195"/>
+<text x="864" y="358" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#9945FF">68x</text>
+<text x="976" y="358" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#14F195">$14.0K</text>
+<text x="448" y="390" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#F1F3FA">$IQ</text>
+<rect x="542" y="379" width="308" height="13" rx="6.5" fill="rgba(20,241,149,0.06)"/>
+<rect x="542" y="379" width="12" height="13" rx="6.5" fill="#14F195"/>
+<text x="864" y="390" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#9945FF">8x</text>
+<text x="976" y="390" text-anchor="end" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#14F195">$4.4K</text>
+<text x="40" y="452" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12" fill="#4B5170">Generated from a real wallet’s on-chain history. A visualization of engine output: demo data, real math.</text>
+</svg>
